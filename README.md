@@ -1,6 +1,6 @@
 # uzel2022
 
-This repository contains matlab scripts that generates main figure panels in Uzel et al., Current Biology 2022, A set of hub neurons and non-local connectivity features support global brain dynamics in C. elegans.
+This repository contains matlab scripts that generate main figure panels in Uzel et al., Current Biology 2022, A set of hub neurons and non-local connectivity features support global brain dynamics in C. elegans.
 
 note1: Complementary whole-brain imaging datasets that are needed for the scripts can be found in Manuel Zimmer’s public profile: https://osf.io/3vkxn/
 
